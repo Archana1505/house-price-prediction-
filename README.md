@@ -8,16 +8,16 @@ User-friendly web interface for inputting house features
 Backend server to handle predictions and serve the frontend
 Tech Stack
 
-Frontend
-HTML
-CSS (Flexbox for layout)
-JavaScript
+Frontend by using
+HTML,
+CSS (Flexbox for layout),
+JavaScript,
 Jinja (for templating)
 
-Backend
-Python
-Flask (for creating the web server)
-Pandas (for data manipulation)
-Scikit-learn (for machine learning model)
+Backend by using
+Python,
+Flask (for creating the web server),
+Pandas (for data manipulation),
+Scikit-learn (for machine learning model),
 Machine Learning Model
 Linear Regression
